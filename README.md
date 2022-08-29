@@ -3,6 +3,7 @@
 ### Hi, I'm Shantanu:
 
 <h3> 👨🏻‍💻 About Me </h3>
+
 - 🎓Recent computer science graduate from A.K.T.U
 - :test_tube: Finishing up my academic project
 - 🪐 Looking forward to learn blockchain development and machine learning
