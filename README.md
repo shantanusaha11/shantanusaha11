@@ -1,9 +1,8 @@
-<p>
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
-</p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ### Hi, I'm Shantanu:
 
+<h3> 👨🏻‍💻 About Me </h3>
 - 🎓Recent computer science graduate from A.K.T.U
 - :test_tube: Finishing up my academic project
 - 🪐 Looking forward to learn blockchain development and machine learning
