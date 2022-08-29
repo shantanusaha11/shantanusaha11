@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 </p>
 
-##### Hi, I'm Shantanu:
+### Hi, I'm Shantanu:
 
 - 🎓Recent computer science graduate from A.K.T.U
 - :test_tube: Finishing up my academic project
